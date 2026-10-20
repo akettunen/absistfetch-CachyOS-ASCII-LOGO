@@ -5,7 +5,7 @@ LOGO_PATH = "Logo.txt"
 
 # This is the color the key-value statement have, it's mainly
 # orange, but you can change it using RGB
-KEY_COLOR = (255, 255, 255)
+KEY_COLOR = (80, 200, 120)
 
 # Same but for the logo, it changes its entire color
 LOGO_COLOR = (80, 200, 120)
